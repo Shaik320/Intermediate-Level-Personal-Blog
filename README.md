@@ -1,2 +1,1 @@
-# Technophile-bud-Task-3
-PERSONAL BLOG
+# Intermediate Level PERSONAL BLOG
